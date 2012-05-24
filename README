@@ -1,0 +1,7 @@
+The beginnings of a text based adventure game engine.
+
+Many thanks to Nicholas M. for posting an easy tutorial at:
+http://www.bluzeandmuse.com/final_site/how_to.html
+
+I'll be forking the project from here to make this project more robust and
+extensible (for example, separating out data and application logic, etc.)
